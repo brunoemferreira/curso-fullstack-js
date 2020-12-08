@@ -19,7 +19,7 @@
     |- /dist/
     |- /src/
       |- /routes/      // Guarda as rotas
-      |- /controllers/ // 
+      |- /controllers/ // É o meio de Campo entre as rotas e os models
       |- /models/      // Regras das Entidades da Aplicação 
       |-
       |-
@@ -43,7 +43,7 @@
 ```
 > Formas de Executar o Projeto
  ```bash 
-# Carrega o arquivo de ambiemte na memória e roda a aplicação
+# Carrega o arquivo de ambiente na memória e roda a aplicação
 $ node start
 
 # Transpila o Typescript para o Javascript e sobe o Serviço 
