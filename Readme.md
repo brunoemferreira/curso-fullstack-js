@@ -7,11 +7,10 @@
 ### 🗺️ Microserviços
 
 <a href="#accounts-service"> - Serviço de Gestão Contas de Usuários</a> </br>
-<a href="#contacts-service"> - Serviço de Gestão Contatos Cadastrados</a>
-<a href="#list-service"> - Serviço de Gestão de Listass</a>
-<a href="#messages-service"> - Serviço de Gestão das Mensagens</a>
-<a href="#campaigns-service"> - Serviço de Gestão de Campanhas</a>
-
+<a href="#contacts-service"> - Serviço de Gestão Contatos Cadastrados</a> </br>
+<a href="#list-service"> - Serviço de Gestão de Listass</a> </br>
+<a href="#messages-service"> - Serviço de Gestão das Mensagens</a> </br>
+<a href="#campaigns-service"> - Serviço de Gestão de Campanhas</a> </br>
 
 #### - Serviço de Gestão Contas de Usuários
  * ⚙️ Funcionalidades :
