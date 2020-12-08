@@ -13,16 +13,11 @@
 <a href="#campaigns-service"> - Serviço de Gestão de Campanhas</a> </br>
 
 <a name="accounts-service"> <h4> ⚙️ Serviço de Gestão Contas de Usuários </h4></a> 
-<p>Funcionalidades : 
+<p>Funcionalidades : </br>
    - Criação das Contas da Aplicação; </br>
    - Autenticação através de uma conta; </br>
 </p>
  
- - Funcionalidades :
- * Criar Contas ( CRUD de Contas )
- * Retornar Conta com id específico
- * Autenticação através de uma Conta  
-
 ```bash
 // Estrutura de Pastas do Serviço
 |- /backend/
