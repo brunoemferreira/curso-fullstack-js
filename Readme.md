@@ -14,8 +14,8 @@
 
 <a name="accounts-service"> <h4> ⚙️ Serviço de Gestão Contas de Usuários </h4></a> 
 <p>Funcionalidades : 
-   - Criação das Contas da Aplicação
-   - Autenticação através de uma conta;
+   - Criação das Contas da Aplicação; </br>
+   - Autenticação através de uma conta; </br>
 </p>
  
  - Funcionalidades :
