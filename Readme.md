@@ -13,6 +13,11 @@
 <a href="#campaigns-service"> - Serviço de Gestão de Campanhas</a> </br>
 
 <a name="accounts-service"> <h4> ⚙️ Serviço de Gestão Contas de Usuários </h4></a> 
+<p>Funcionalidades : 
+   - Criação das Contas da Aplicação
+   - Autenticação através de uma conta;
+</p>
+ 
  - Funcionalidades :
  * Criar Contas ( CRUD de Contas )
  * Retornar Conta com id específico
