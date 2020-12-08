@@ -1,6 +1,5 @@
 
 
-
 # BackEnd
 
 ## 🔨 Tecnologias
@@ -13,7 +12,7 @@
  * Retornar Conta com id específico
  * Autenticação através de uma Conta  
 
-```js
+```bash
 // Estrutura de Pastas do Serviço
 |- /backend/
   |- /accounts-service/
@@ -40,7 +39,20 @@
 - @types/express
 - dotenv-safe
 - nodemon
+
 ```
+> Formas de Executar o Projeto
+ ```bash 
+# Carrega o arquivo de ambiemte na memória e roda a aplicação
+$ node start
+# Transpila o Typescript para o Javascript e sobe o Serviço 
+$ npm run compile
+# Executa o nodemon que fica olhando os arquivos ts e json atras de alterações se houver alterações ele recompila
+# Ignora o pacote dist para evitar loop infinito de compilação 
+# Ou seja deixa a aplicação no ar onde eu posso fazer quantas alterações eu quiser, que ele força a recompilação do projeto 
+$ npm run dev
+ ```
+
 
 
 
