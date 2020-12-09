@@ -6,6 +6,8 @@
 <p align="center">Software SAAS Multi-Tenancy</p>
 
 ## BackEnd
+### 📄 Descrição
+<p>O MailShrimp é uma plataforma de email Marketing ( SAAS, multi-tenancy ) desenvolvida em Javascript, utilizando arquitetura de MicroServiços.</p>
 
 ### 🔨 Tecnologias
 
