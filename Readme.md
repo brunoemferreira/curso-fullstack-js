@@ -1,4 +1,9 @@
+<h1 align="center">
+    <img alt="mailshrimp" title="#mailshrimp" src="./assets/logo.png" />
+</h1>
 
+<h1 align="center">MAILSHRIMP - Email Marketing</h1>
+<h1 align="center">Software SAAS Multi-Tenancy</h1>
 
 # BackEnd
 
