@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">MAILSHRIMP - Email Marketing</h1>
-<h1 align="center">Software SAAS Multi-Tenancy</h1>
+<p align="center">Software SAAS Multi-Tenancy</p>
 
 ## BackEnd
 
