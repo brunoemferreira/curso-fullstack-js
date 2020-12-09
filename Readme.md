@@ -9,9 +9,11 @@
 ### 📄 Descrição
 <p>O MailShrimp é uma plataforma de email Marketing ( SAAS, multi-tenancy ) desenvolvida em Javascript, utilizando arquitetura de MicroServiços.</p>
 
-### 🔨 Tecnologias
-[link]NodeJs
-[TypeScript]TypeScript
+<h3>🔨 Tecnologias</h3>
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [NodeJS](https://nodejs.org/en/)
+- [MySql](https://www.mysql.com/products/community/)
 
 ### 🗺️ Microserviços
 
@@ -36,9 +38,6 @@
       |- /routes/      // Guarda as rotas
       |- /controllers/ // É o meio de Campo entre as rotas e os models
       |- /models/      // Regras das Entidades da Aplicação 
-      |-
-      |-
-      |-
     |- /test/
   |- .env              // Configurações do Projeto
   |- .env.example      // Arquivo de Template de configurações obrigatórias para o projeto              
