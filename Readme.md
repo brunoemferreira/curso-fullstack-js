@@ -10,6 +10,8 @@
 <p>O MailShrimp é uma plataforma de email Marketing ( SAAS, multi-tenancy ) desenvolvida em Javascript, utilizando arquitetura de MicroServiços.</p>
 
 ### 🔨 Tecnologias
+[link]NodeJs
+[TypeScript]TypeScript
 
 ### 🗺️ Microserviços
 
