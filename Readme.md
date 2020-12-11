@@ -35,17 +35,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
   |- /accounts-service/
     |- /dist/
     |- /src/
-      |- /routes/      // Guarda as rotas
       |- /controllers/ // É o meio de Campo entre as rotas e os models
       |- /models/      // Regras das Entidades da Aplicação 
+      |- /routes/      // Guarda as rotas
+      |- app.ts
     |- /test/
   |- .env              // Configurações do Projeto
   |- .env.example      // Arquivo de Template de configurações obrigatórias para o projeto              
-
-
-
-
-// Pacotes Utilizados
+```
+> Pacotes Utilizados
+```bash
 - express
 - body-parser
 - helmet
@@ -53,6 +52,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - @types/express
 - dotenv-safe
 - nodemon
+- jest
+- supertest
+- ts-jest
+- @types/jest
+- @types/supertest
 
 ```
 > Formas de Executar o Projeto
