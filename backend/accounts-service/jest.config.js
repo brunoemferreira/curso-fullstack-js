@@ -14,7 +14,7 @@ module.exports = {
   // cacheDirectory: "C:\\Users\\Bruno Eduardo\\AppData\\Local\\Temp\\jest",
 
   // Automatically clear mock calls and instances between every test
-  // clearMocks: false,
+  clearMocks: true,
 
   // Indicates whether the coverage information should be collected while executing the test
   collectCoverage: true,
@@ -23,7 +23,7 @@ module.exports = {
   collectCoverageFrom: ['<rootDir/src/**/*.ts>'],
 
   // The directory where Jest should output its coverage files
-  // coverageDirectory: undefined,
+  coverageDirectory: "coverage",
 
   // An array of regexp pattern strings used to skip coverage collection
   // coveragePathIgnorePatterns: [
