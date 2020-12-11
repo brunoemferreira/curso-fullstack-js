@@ -53,6 +53,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - dotenv-safe
 - nodemon
 - jest
+- supertest
+- ts-jest
+- @types/jest
+- @types/supertest
+
 ```
 > Formas de Executar o Projeto
  ```bash 
